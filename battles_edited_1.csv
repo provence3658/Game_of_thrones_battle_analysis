@@ -1,0 +1,35 @@
+name,year,battle_number,attacker_king,defender_king,attacker_outcome,battle_type
+Battle of the Golden Tooth,298,1,Joffrey/Tommen Baratheon,Robb Stark,win,pitched battle
+Battle at the Mummer's Ford,298,2,Joffrey/Tommen Baratheon,Robb Stark,win,ambush
+Battle of Riverrun,298,3,Joffrey/Tommen Baratheon,Robb Stark,win,pitched battle
+Battle of the Green Fork,298,4,Robb Stark,Joffrey/Tommen Baratheon,loss,pitched battle
+Battle of the Whispering Wood,298,5,Robb Stark,Joffrey/Tommen Baratheon,win,ambush
+Battle of the Camps,298,6,Robb Stark,Joffrey/Tommen Baratheon,win,ambush
+Sack of Darry,298,7,Joffrey/Tommen Baratheon,Robb Stark,win,pitched battle
+Battle of Moat Cailin,299,8,Balon/Euron Greyjoy,Robb Stark,win,pitched battle
+Battle of Deepwood Motte,299,9,Balon/Euron Greyjoy,Robb Stark,win,siege
+Battle of the Stony Shore,299,10,Balon/Euron Greyjoy,Robb Stark,win,ambush
+Battle of Torrhen's Square,299,11,Robb Stark,Balon/Euron Greyjoy,win,pitched battle
+Battle of Winterfell,299,12,Balon/Euron Greyjoy,Robb Stark,win,ambush
+Sack of Torrhen's Square,299,13,Balon/Euron Greyjoy,Balon/Euron Greyjoy,win,siege
+Sack of Winterfell,299,14,Joffrey/Tommen Baratheon,Robb Stark,win,ambush
+Battle of Oxcross,299,15,Robb Stark,Joffrey/Tommen Baratheon,win,ambush
+Siege of Storm's End,299,16,Stannis Baratheon,Renly Baratheon,win,siege
+Battle of the Fords,299,17,Joffrey/Tommen Baratheon,Robb Stark,loss,pitched battle
+Sack of Harrenhal,299,18,Robb Stark,Joffrey/Tommen Baratheon,win,ambush
+Battle of the Crag,299,19,Robb Stark,Joffrey/Tommen Baratheon,win,ambush
+Battle of the Blackwater,299,20,Stannis Baratheon,Joffrey/Tommen Baratheon,loss,pitched battle
+Siege of Darry,299,21,Robb Stark,Joffrey/Tommen Baratheon,win,siege
+Battle of Duskendale,299,22,Robb Stark,Joffrey/Tommen Baratheon,loss,pitched battle
+Battle of the Ruby Ford,299,24,Joffrey/Tommen Baratheon,Robb Stark,win,pitched battle
+The Red Wedding,299,26,Joffrey/Tommen Baratheon,Robb Stark,win,ambush
+Siege of Seagard,299,27,Robb Stark,Joffrey/Tommen Baratheon,win,siege
+Battle of Castle Black,300,28,Stannis Baratheon,Mance Rayder,loss,siege
+Fall of Moat Cailin,300,29,Joffrey/Tommen Baratheon,Balon/Euron Greyjoy,win,siege
+Retaking of Deepwood Motte,300,31,Stannis Baratheon,Balon/Euron Greyjoy,win,pitched battle
+Battle of the Shield Islands,300,32,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,win,pitched battle
+"Invasion of Ryamsport, Vinetown, and Starfish Harbor",300,33,Balon/Euron Greyjoy,Joffrey/Tommen Baratheon,win,razing
+Second Seige of Storm's End,300,34,Joffrey/Tommen Baratheon,Stannis Baratheon,win,siege
+Siege of Dragonstone,300,35,Joffrey/Tommen Baratheon,Stannis Baratheon,win,siege
+Siege of Riverrun,300,36,Joffrey/Tommen Baratheon,Robb Stark,win,siege
+Siege of Raventree,300,37,Joffrey/Tommen Baratheon,Robb Stark,win,siege
